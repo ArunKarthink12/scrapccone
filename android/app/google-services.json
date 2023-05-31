@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359541927077",
+    "project_id": "zeroscrap",
+    "storage_bucket": "zeroscrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359541927077:android:d6dd63caa731807cc4714c",
+        "android_client_info": {
+          "package_name": "com.app.zero_scarp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359541927077-t1ijv92e6ful593l04usa0t9csuspifs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPR78ASIJdVUTmEnHMrlX_8_HqDXDO_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359541927077-t1ijv92e6ful593l04usa0t9csuspifs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
