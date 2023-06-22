@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'dart:io';
 import 'dart:math';
-import 'package:dio/dio.dart' as dio;
+// import 'package:dio/dio.dart' as dio;
 import 'package:flutter_image_compress/flutter_image_compress.dart';
 
 import 'package:path/path.dart';
