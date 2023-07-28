@@ -26,7 +26,7 @@ class _OptionListState extends State<OptionList> {
     const YourOrderScreen(),
     const HistoryScreen(),
     const ReadProfileScreen(),
-    // const EditProfileScreen(),
+    const EditProfileScreen(),
     const ChangePasswordScreen(),
   ];
   @override
